@@ -1,0 +1,22 @@
+{
+  "name": "@mio-core/mioconfig",
+  "version": "0.0.0",
+  "description": "Configuration logic for mio microservice architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citkane/mioConfig.git"
+  },
+  "author": "Michael Jonker",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/citkane/mioConfig/issues"
+  },
+  "homepage": "https://github.com/citkane/mioConfig#readme",
+  "dependencies": {
+    "config": "^3.3.7"
+  }
+}
